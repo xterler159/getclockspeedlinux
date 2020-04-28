@@ -19,3 +19,5 @@ This will output in your terminal the following results (every 0.5s):
 1854 MHz
 1494 MHz
 ```
+
+## :warning: This program works only in native systems (not vms) :warning:
