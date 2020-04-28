@@ -11,3 +11,11 @@ Run this command:
 chmod +x main.py
 ./main.py
 ```
+
+This will output in your terminal the following results (every 0.5s):
+```
+1632 MHz
+1732 MHz
+1854 MHz
+1494 MHz
+```
